@@ -1,5 +1,6 @@
 # jupyter-final-assignment
 IBM AI Coursera Certificate, Course 2, Module 6
+
 Exercise 1: Create a Jupyter Notebook
 Create a new Jupyter notebook called DataScienceEcosystem.ipynb
 Note: The next item in the course will launch JupyterLite with an empty notebook with this name that you can use to complete rest of the Exercises. You can also use any other Jupyter notebook environment (e.g. Anaconda) that you prefer to complete the assignment.
